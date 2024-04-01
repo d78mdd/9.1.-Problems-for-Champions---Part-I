@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Crossing sequences with
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Crossing sequences no arrays and time optimize try", "01. Crossing sequences no arrays and time optimize try\01. Crossing sequences no arrays and time optimize try.csproj", "{B065DC32-86CC-42CE-8A76-1E4FBD7DCE9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Crossing sequences time optimize try", "01. Crossing sequences time optimize try\01. Crossing sequences time optimize try.csproj", "{B0A9127B-0093-4059-B5BD-7A152D99C219}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{B065DC32-86CC-42CE-8A76-1E4FBD7DCE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B065DC32-86CC-42CE-8A76-1E4FBD7DCE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B065DC32-86CC-42CE-8A76-1E4FBD7DCE9A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B0A9127B-0093-4059-B5BD-7A152D99C219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B0A9127B-0093-4059-B5BD-7A152D99C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0A9127B-0093-4059-B5BD-7A152D99C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0A9127B-0093-4059-B5BD-7A152D99C219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
