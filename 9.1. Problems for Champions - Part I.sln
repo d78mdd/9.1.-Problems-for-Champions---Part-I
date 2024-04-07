@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Magic Dates", "02. Magi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infinite loop", "infinite loop\infinite loop.csproj", "{F7DA0DF3-275B-4452-A5B5-3593DC01269E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Five Special Letters", "03. Five Special Letters\03. Five Special Letters.csproj", "{71EAF3D2-74DB-4C59-B474-CF6ABA9FA1D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F7DA0DF3-275B-4452-A5B5-3593DC01269E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7DA0DF3-275B-4452-A5B5-3593DC01269E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7DA0DF3-275B-4452-A5B5-3593DC01269E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EAF3D2-74DB-4C59-B474-CF6ABA9FA1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EAF3D2-74DB-4C59-B474-CF6ABA9FA1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EAF3D2-74DB-4C59-B474-CF6ABA9FA1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EAF3D2-74DB-4C59-B474-CF6ABA9FA1D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
